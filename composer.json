@@ -1,0 +1,20 @@
+{
+	"name" : "nih-fo/plugin-ssdeep",
+	"description" : "CakePHP Plugin: Provides interfaces to ssdeep",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "ssdeep"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*"
+	}
+}

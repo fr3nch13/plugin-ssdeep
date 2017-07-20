@@ -1,0 +1,1 @@
+CakePHP Plugin: Provides interfaces to ssdeep
