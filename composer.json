@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Provides interfaces to ssdeep",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "ssdeep"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
