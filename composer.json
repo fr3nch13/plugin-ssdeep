@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-ssdeep",
+	"name" : "fr3nch13/plugin-ssdeep",
 	"description" : "CakePHP Plugin: Provides interfaces to ssdeep",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "ssdeep"],
@@ -15,6 +15,6 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "1.*"
+		"fr3nch13/plugin-utilities": "1.*"
 	}
 }
